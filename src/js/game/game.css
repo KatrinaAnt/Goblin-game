@@ -1,0 +1,16 @@
+.field {
+    display: flex;
+    margin: 0 auto;
+    height: 600px;
+    width: 900px;
+    flex-wrap: wrap;
+    background-color: #957b8d;
+}
+
+.field-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 225px;
+}
